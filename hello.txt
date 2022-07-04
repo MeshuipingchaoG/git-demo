@@ -9,8 +9,11 @@ hello czw  hello git
 hello czw  hello git
 hello czw  hello git
 hello czw  hello git
+<<<<<<< HEAD
 hello czw  hello git  master
-hello czw  hello git
+=======
+hello czw  hello git  hot-fix
+>>>>>>> hot-fix
 
 
 
